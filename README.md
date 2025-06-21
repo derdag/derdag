@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/derdag/derdag/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/derdag/derdag/output/github-snake-dark.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/derdag/derdag/main/github-snake.svg" />
+</picture>
